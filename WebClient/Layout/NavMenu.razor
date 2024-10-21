@@ -1,0 +1,62 @@
+﻿<div class="top-row ps-3 navbar navbar-dark bg-dark">
+    <!-- Container for the brand name and the button to toggle the menu -->
+    <div class="container-fluid">
+        <!-- Brand name -->
+        <a class="navbar-brand" href="">WebClient</a>
+        <!-- Button to toggle the navigation menu for smaller screens -->
+        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+</div>
+
+<!-- The collapsible navigation menu -->
+<div class="@NavMenuCssClass nav-scrollable navbar-expand-lg bg-light">
+    <!-- The actual navigation items -->
+    <nav class="flex-column navbar-nav">
+        <!-- Home link -->
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/" Match="NavLinkMatch.All">
+                <!-- Use Bootstrap icons for the home icon -->
+                <span class="bi bi-house-door-fill" aria-hidden="true"></span> Home
+            </NavLink>
+        </div>
+
+        <!-- Login link -->
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="login">
+                <span class="bi bi-person-fill" aria-hidden="true"></span> Login
+            </NavLink>
+        </div>
+
+        <!-- Counter link -->
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="counter">
+                <!-- Use Bootstrap icons for the counter icon -->
+                <span class="bi bi-plus-square-fill" aria-hidden="true"></span> Counter
+            </NavLink>
+        </div>
+
+        <!-- Weather link -->
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="weather">
+                <!-- Use Bootstrap icons for the weather icon -->
+                <span class="bi bi-list-nested" aria-hidden="true"></span> Weather
+            </NavLink>
+        </div>
+    </nav>
+</div>
+
+@code {
+    // Boolean to track whether the navigation menu is collapsed or not
+    private bool collapseNavMenu = true;
+
+    // CSS class for collapsing the navigation menu
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    // Function to toggle the navigation menu on button click
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

@@ -1,0 +1,416 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phurt\\source\\repos\\TestApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67B1B661-9058-45FF-AE4C-1BCB537F16F2}|ServiceApi\\ServiceApi.csproj|c:\\users\\phurt\\source\\repos\\testapp\\serviceapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B1B661-9058-45FF-AE4C-1BCB537F16F2}|ServiceApi\\ServiceApi.csproj|solutionrelative:serviceapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\testapp\\webclient\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\testapp\\webclient\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\testapp\\webclient\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\testapp\\webclient\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|solutionrelative:webclient\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\testapp\\webclient\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\testapp\\webclient\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B1B661-9058-45FF-AE4C-1BCB537F16F2}|ServiceApi\\ServiceApi.csproj|c:\\users\\phurt\\source\\repos\\testapp\\serviceapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B1B661-9058-45FF-AE4C-1BCB537F16F2}|ServiceApi\\ServiceApi.csproj|solutionrelative:serviceapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B1B661-9058-45FF-AE4C-1BCB537F16F2}|ServiceApi\\ServiceApi.csproj|c:\\users\\phurt\\source\\repos\\testapp\\serviceapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B1B661-9058-45FF-AE4C-1BCB537F16F2}|ServiceApi\\ServiceApi.csproj|solutionrelative:serviceapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B1B661-9058-45FF-AE4C-1BCB537F16F2}|ServiceApi\\ServiceApi.csproj|c:\\users\\phurt\\source\\repos\\testapp\\serviceapi\\services\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B1B661-9058-45FF-AE4C-1BCB537F16F2}|ServiceApi\\ServiceApi.csproj|solutionrelative:serviceapi\\services\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\testapp\\webclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|solutionrelative:webclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B1B661-9058-45FF-AE4C-1BCB537F16F2}|ServiceApi\\ServiceApi.csproj|c:\\users\\phurt\\source\\repos\\testapp\\serviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B1B661-9058-45FF-AE4C-1BCB537F16F2}|ServiceApi\\ServiceApi.csproj|solutionrelative:serviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B1B661-9058-45FF-AE4C-1BCB537F16F2}|ServiceApi\\ServiceApi.csproj|c:\\users\\phurt\\source\\repos\\testapp\\serviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67B1B661-9058-45FF-AE4C-1BCB537F16F2}|ServiceApi\\ServiceApi.csproj|solutionrelative:serviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B1B661-9058-45FF-AE4C-1BCB537F16F2}|ServiceApi\\ServiceApi.csproj|c:\\users\\phurt\\source\\repos\\testapp\\serviceapi\\serviceapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{67B1B661-9058-45FF-AE4C-1BCB537F16F2}|ServiceApi\\ServiceApi.csproj|solutionrelative:serviceapi\\serviceapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\testapp\\webclient\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|solutionrelative:webclient\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\testapp\\webclient\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|solutionrelative:webclient\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\testapp\\webclient\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|solutionrelative:webclient\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\testapp\\webclient\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|solutionrelative:webclient\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\testapp\\webclient\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|solutionrelative:webclient\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B1B661-9058-45FF-AE4C-1BCB537F16F2}|ServiceApi\\ServiceApi.csproj|c:\\users\\phurt\\source\\repos\\testapp\\serviceapi\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B1B661-9058-45FF-AE4C-1BCB537F16F2}|ServiceApi\\ServiceApi.csproj|solutionrelative:serviceapi\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B1B661-9058-45FF-AE4C-1BCB537F16F2}|ServiceApi\\ServiceApi.csproj|c:\\users\\phurt\\source\\repos\\testapp\\serviceapi\\serviceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67B1B661-9058-45FF-AE4C-1BCB537F16F2}|ServiceApi\\ServiceApi.csproj|solutionrelative:serviceapi\\serviceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\testapp\\webclient\\webclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|solutionrelative:webclient\\webclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\testapp\\webclient\\services\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218342FC-61F4-46E9-8DF4-59801939A876}|WebClient\\WebClient.csproj|solutionrelative:webclient\\services\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:444799957:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\ServiceApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ServiceApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\ServiceApi\\WeatherForecast.cs",
+              "RelativeToolTip": "ServiceApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:20:17.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\ServiceApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ServiceApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\ServiceApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ServiceApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:18:07.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\Pages\\Weather.razor",
+              "RelativeToolTip": "WebClient\\Pages\\Weather.razor",
+              "ViewState": "AgIAADoAAAAAAAAAAAAqwGcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T14:17:54.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Profile.razor",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\Pages\\Profile.razor",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Profile.razor",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\Pages\\Profile.razor",
+              "RelativeToolTip": "WebClient\\Pages\\Profile.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T14:13:57.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "WebClient\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "WebClient\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T23:07:14.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\Pages\\Login.razor",
+              "RelativeToolTip": "WebClient\\Pages\\Login.razor",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAqwD8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T23:06:25.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "WebClient\\Services\\LoginService.cs",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\Services\\LoginService.cs",
+              "RelativeToolTip": "WebClient\\Services\\LoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T23:03:03.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\ServiceApi\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "ServiceApi\\Services\\LoginService.cs",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\ServiceApi\\Services\\LoginService.cs",
+              "RelativeToolTip": "ServiceApi\\Services\\LoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:58:50.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\ServiceApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ServiceApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\ServiceApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ServiceApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:59:54.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\Pages\\Home.razor",
+              "RelativeToolTip": "WebClient\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T14:21:56.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\Pages\\Counter.razor",
+              "RelativeToolTip": "WebClient\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T14:21:58.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\Program.cs",
+              "RelativeDocumentMoniker": "WebClient\\Program.cs",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\Program.cs",
+              "RelativeToolTip": "WebClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T23:03:37.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\ServiceApi\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceApi\\Program.cs",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\ServiceApi\\Program.cs",
+              "RelativeToolTip": "ServiceApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T23:00:36.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceApi.http",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\ServiceApi\\ServiceApi.http",
+              "RelativeDocumentMoniker": "ServiceApi\\ServiceApi.http",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\ServiceApi\\ServiceApi.http",
+              "RelativeToolTip": "ServiceApi\\ServiceApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-21T13:06:04.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\ServiceApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ServiceApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\ServiceApi\\appsettings.json",
+              "RelativeToolTip": "ServiceApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T13:08:15.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\ServiceApi\\Services\\ILoginService.cs",
+              "RelativeDocumentMoniker": "ServiceApi\\Services\\ILoginService.cs",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\ServiceApi\\Services\\ILoginService.cs",
+              "RelativeToolTip": "ServiceApi\\Services\\ILoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:54:13.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\Services\\ILoginService.cs",
+              "RelativeDocumentMoniker": "WebClient\\Services\\ILoginService.cs",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\Services\\ILoginService.cs",
+              "RelativeToolTip": "WebClient\\Services\\ILoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T23:02:16.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ServiceApi.csproj",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\ServiceApi\\ServiceApi.csproj",
+              "RelativeDocumentMoniker": "ServiceApi\\ServiceApi.csproj",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\ServiceApi\\ServiceApi.csproj",
+              "RelativeToolTip": "ServiceApi\\ServiceApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T23:16:11.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "WebClient\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "WebClient\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:24:08.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\App.razor",
+              "RelativeDocumentMoniker": "WebClient\\App.razor",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\App.razor",
+              "RelativeToolTip": "WebClient\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:25:18.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\_Imports.razor",
+              "RelativeDocumentMoniker": "WebClient\\_Imports.razor",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\_Imports.razor",
+              "RelativeToolTip": "WebClient\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:25:20.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "WebClient\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "WebClient\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-21T13:25:30.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WebClient.csproj",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\WebClient.csproj",
+              "RelativeDocumentMoniker": "WebClient\\WebClient.csproj",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\TestApp\\WebClient\\WebClient.csproj",
+              "RelativeToolTip": "WebClient\\WebClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T23:01:05.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "ViewState": "AgIAANwBAAAAAAAAAAAnwOoBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-19T23:14:02.98Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
